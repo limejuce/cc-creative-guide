@@ -1,4 +1,6 @@
-theme: jekyll-theme-slate
+theme: 'readthedocs'
+repo_name: 'GitHub'
+repo_url: 'https://github.com/Hans5958/cc-creative-guide'
 site_name: Cosmic Craft Creative Guide
 pages:
   - 'Main Page': 'index.md'
