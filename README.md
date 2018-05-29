@@ -1,7 +1,7 @@
 # Cosmic Craft's Creative Guide
 > From the Ultimate CC Creative Guidebook, not released.
 
-This is the Cosmic Craft's Creative Guide that I made to improve your experience. You can read it on https://hans5958.github.io/cc-creative-guide.
+Welcome to the Cosmic Craft's Creative Guide, created by Pixel5958/Hans5958. This guide is written to make your experience on the server better. You can read it on https://hans5958.github.io/cc-creative-guide.
 
 ## TO-DO LIST:
 
