@@ -3,7 +3,7 @@
 
 This is the Cosmic Craft's Creative Guide that I made to improve your experience. You can read it on https://hans5958.github.io/cc-creative-guide. 
 
-## TO-DO LIST
+## TO-DO LIST:
 
 0. [ ] Preface
 1. [ ] Introduction
