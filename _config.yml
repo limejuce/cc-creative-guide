@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+site_name: Cosmic Craft Creative Guide
+pages:
+  - 'Main Page': 'index.md'
+  - 'Preface': 'preface/index.md'
+  - 'I. Introduction': 'introduction/index.md'
+  - 'II. Commands': 'commands/index.md'
+  - 'III. Things to know': 'things/index.md'
+  - 'Ending': 'ending/index.md'
