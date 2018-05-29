@@ -5,18 +5,18 @@ Welcome to the Cosmic Craft's Creative Guide, created by Pixel5958/Hans5958. Thi
 0. Preface
 1. Introduction
 2. Commands
-  - Basics
-  - Plotting
-    - Plot Flags
-  - Disguise
-  - Marriage
-  - Gambling
+    - Basics
+    - Plotting
+        - Plot Flags
+    - Disguise
+    - Marriage
+    - Gambling
 3. Things to know
-  - Donator Ranks
-  - Cheating and Hacking
-  - Reboot
-  -  Color and Formatting Codes
-  - Plot Music ID
-5. Ending
-  - License
-  - About Me
+    - Donator Ranks
+    - Cheating and Hacking
+    - Reboot
+    - Color and Formatting Codes
+    - Plot Music ID
+4. Ending
+    - License
+    - About Me
