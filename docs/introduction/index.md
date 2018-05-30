@@ -1,4 +1,4 @@
-## Chapter I. Introduction
+<h1>Chapter I. Introduction</h1>
 
 Okay, where do we start? So, welcome to the CosmicMC's (or Cosmic Craft's) creative server. In here, you would expect some good and bad things. In this server, you may get great buildings across the server. You can also meet a lot of friends! Seriously. Most of them are friendly here. You can also see staff that often online, watching the game, to give you (a little) better experience on this server. You can also meet some players whose name are bolded. These are called Donators.
 

@@ -1,4 +1,4 @@
-# Preface
+<h1>Preface</h1>
 
 Hello, and welcome to this guide. First of all, thank you so much to read this guide. You may want to know why do I make this guide. Well, I made this guide for newcomers on this server, and also to introduce you to this server. This also made for players who have a high curiosity to find something interesting about this server.
 
