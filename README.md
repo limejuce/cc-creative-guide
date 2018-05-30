@@ -5,15 +5,16 @@ Welcome to the Cosmic Craft's Creative Guide, created by Pixel5958/Hans5958. Thi
 
 ## TO-DO LIST:
 
-- [ ] 0. Preface
-- [ ] 1. Introduction
-- [ ] 2. Commands
-  - [ ] Basics
-  - [ ] Plotting
-    - [ ] Plot Flags
-  - [ ] Disguise
-  - [ ] Marriage
-  - [ ] Gambling
+- [x] 0. Preface
+- [x] 1. Introduction
+- [x] 2. Commands
+  - [x] Basics
+  - [x] Plotting
+    - [x] Plot Flags
+  - [x] Disguise
+  - [x] Marriage
+  - [x] ~~Gambling~~ feature deleted
+  - [x] Donator
 - [ ] 3. Things to know
   - [ ] Donator Ranks
   - [ ] Cheating and Hacking

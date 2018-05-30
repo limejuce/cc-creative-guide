@@ -2,12 +2,12 @@ Welcome to the Cosmic Craft's Creative Guide, created by Pixel5958/Hans5958. Thi
 
 ## Contents
 
-0. Preface
-1. Introduction
-2. Commands
-    - Basics
-    - Plotting
-        - Plot Flags
+0. [Preface](preface)
+1. [Introduction](introduction)
+2. [Commands](commands)
+    - [Basics](commands/basics.md)
+    - [Plotting](commands/plotting.md)
+        - [Plot Flags](commands/plotting.md)
     - Disguise
     - Marriage
     - Gambling
