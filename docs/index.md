@@ -8,9 +8,8 @@ Welcome to the Cosmic Craft's Creative Guide, created by Pixel5958/Hans5958. Thi
     - [Basics](commands/basics.md)
     - [Plotting](commands/plotting.md)
         - [Plot Flags](commands/plotting.md)
-    - Disguise
-    - Marriage
-    - Gambling
+    - [Disguise](commands/disguise.md)
+    - [Marriage](commands/marriage.md)
 3. Things to know
     - Donator Ranks
     - Cheating and Hacking
