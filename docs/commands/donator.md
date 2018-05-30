@@ -1,4 +1,4 @@
-<h2>II.4. Commands - Donator</h2>
+<h2>II.5. Commands - Donator</h2>
 
 This commands are accessible by players who bought the Donator rank. Read the section [Donator Ranks](/things/donator.md) for more information.
 
