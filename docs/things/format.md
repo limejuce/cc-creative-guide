@@ -2,7 +2,7 @@
 
 ![A book showing the possible formatting options with the character that performs them.](/img/Minecraft_Formatting.gif)
 
-So, you have seen donations who have special colors for their name, signs which have bold and italics, and advertisements which using attractive colors. This is called as color (formatting) codes. This code is used to give colors or some specific formatting. Most of the time, you will use the ampersand (&) for chat, advertising, signs, nicknames, and such. Some special cases, like on the book, uses the section mark symbol (§). This color codes offers 16 colors and 5 types of formatting.
+So, you have seen donations who have special colors for their name, signs which have bold and italics, and advertisements which using attractive colors. This is called as color (formatting) codes. This code is used to give colors or some specific formatting. Most of the time, you will use the ampersand (&) for the chat, advertising, signs, nicknames, and such. Some special cases, like in the book, uses the section mark symbol (§). This color code offers 16 colors and 5 types of formatting.
 
 Here's the list of the codes.
 

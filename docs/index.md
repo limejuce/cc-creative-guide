@@ -28,6 +28,6 @@ See [Credits](credits)
 
 ## License
 
-The contents of this guide is licensed under a terms of [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+The contents of this guide are licensed under the terms of [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-The source code (HTML, CSS and other scripting, markup or programming languages and the like) of this guide is licensed under the terms of [MIT license](https://opensource.org/licenses/MIT)
+The source code (HTML, CSS and another scripting, markup or programming languages and the like) of this guide is licensed under the terms of [MIT license](https://opensource.org/licenses/MIT)

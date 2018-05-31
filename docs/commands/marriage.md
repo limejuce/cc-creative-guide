@@ -1,12 +1,12 @@
 <h2>II.4. Commands - Marriage</h2>
 
-I don't know you guys, but since everyone wants to marry, I decided to add this on this guide because everyone does it.
-Okay, so marry is a feature that's added on this server for fun, but some players took it seriously and they "adopt" a child for being a huge family.
-Please don't do that guys, I'm disappointed. Anyway, lets get to the commands. I don't know if this works or not, so please tell me if the commands doesn't work.
+I don't know you guys, but since everyone wants to marry, I decided to add this to this guide because everyone does it.
+Okay, so marry is a feature that's added to the server for fun, but some players took it seriously and they "adopt" a child for being a huge family.
+Please don't do those guys, I'm disappointed. Anyway, let's get to the commands. I don't know if this works or not, so please tell me if the commands don't work.
 
 | Command | Description |
 | --- | --- |
-| /marry [player] | Sends a proposal of marriage to someone. You can accept this by do /marry accept.
+| /marry [player] | Sends a proposal of marriage to someone. You can accept this by doing /marry accept.
 | /marry gender | Sets your gender, what do you expect?
 | /marry gift | Gifts/gave an item that you are holding to your partner.
 | /marry pvp on/off | Enable/disable PVP abilities between you and your partner.

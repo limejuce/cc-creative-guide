@@ -1,3 +1,5 @@
+<h1>Credits</h1>
+
 Thanks to:
 
   - [Github Pages](https://pages.github.com/) (hosting)
@@ -5,6 +7,7 @@ Thanks to:
   - [ReadTheDocs](https://readthedocs.org/) (theme)
   - [Minecraft](minecraft.net) (game)
   - [Cosmic Craft](cosmicmc.com) (server)  
+  - [Grammarly](grammarly.com) (spell-check)
 
 References:
 
