@@ -1,11 +1,12 @@
 # Cosmic Craft's Creative Guide
-> From the Ultimate CC Creative Guidebook, not released.
+> Every aspect explained.
+From the Ultimate CC Creative Guidebook, not released.
 
 Welcome to the Cosmic Craft's Creative Guide, created by Hans5958. This guide is written to make your experience on the server better. You can read it on https://hans5958.github.io/cc-creative-guide.
 
 ## TO-DO LIST:
 
-- [x] 0. Preface
+- [x] Preface
 - [x] 1. Introduction
 - [x] 2. Commands
   - [x] Basics
