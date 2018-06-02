@@ -1,4 +1,4 @@
-<h1>III.6. Plugins
+<h1>III.6. Plugins</h1>
 
 Here are the some plugins that are known to be used at the server.
 
@@ -20,7 +20,7 @@ This one is a odd one out, because it's a paid plugin. It adds new custom items 
 6. Vault  
 An API for easy hooks for plugins. Dependency of NewItems
 
-7. ProtocolLib
+7. ProtocolLib  
 Library to enables read and write access to Minecraft protocol. Dependency of NewItems.
 
 8. Vehicles  
