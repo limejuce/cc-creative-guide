@@ -16,11 +16,12 @@ Welcome to the Cosmic Craft's Creative Guide, created by Hans5958. This guide is
     - [Marriage](commands/marriage.md)
     - [Donator](commands/donator.md)
 3. [Things To Know](things)
-  - [Donator Ranks](things/donator.md)
-  - [Cheating and Hacking](things/cheat.md)
-  - [Reboot](things/reboot.md)
-  - [Color and Formatting Codes](things/format.md)
-  - [Plot Music ID](things/musicid.md)
+    - [Donator Ranks](things/donator.md)
+    - [Cheating and Hacking](things/cheat.md)
+    - [Reboot](things/reboot.md)
+    - [Color and Formatting Codes](things/format.md)
+    - [Plot Music ID](things/musicid.md)
+    - [Plugins](things/plugins.md)
 4. [Ending](ending)
 
 ## Credits

@@ -1,7 +1,8 @@
 <h1>Chapter III. Things To Know</h1>
 
-- [Donator Ranks](donator.md)
-- [Cheating and Hacking](cheat.md)
-- [Reboot](reboot.md)
-- [Color and Formatting Codes](format.md)
-- [Plot Music ID](musicid.md)
+1. [Donator Ranks](donator.md)
+2. [Cheating and Hacking](cheat.md)
+3. [Reboot](reboot.md)
+4. [Color and Formatting Codes](format.md)
+5. [Plot Music ID](musicid.md)
+6. [Plugins](plugins.md)

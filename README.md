@@ -22,6 +22,7 @@ Welcome to the Cosmic Craft's Creative Guide, created by Hans5958. This guide is
   - [x] Reboot
   - [x] Color and Formatting Codes
   - [x] Plot Music ID
+  - [x] Plugins
 - [x] 4. Ending
 - [x] License
 - [ ] About Me
