@@ -3,24 +3,24 @@
 
     
     <url>
-     <loc>/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/preface/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/preface/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/introduction/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/introduction/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,95 +28,101 @@
     
         
     <url>
-     <loc>/commands/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/commands/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/commands/basics/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/commands/basics/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/commands/plotting/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/commands/plotting/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/commands/disguise/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/commands/disguise/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/commands/marriage/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/commands/marriage/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/commands/donator/</loc>
-     <lastmod>2018-05-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
-     <loc>/things/</loc>
-     <lastmod>2018-05-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/things/donator/</loc>
-     <lastmod>2018-05-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/things/cheat/</loc>
-     <lastmod>2018-05-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/things/reboot/</loc>
-     <lastmod>2018-05-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/things/format/</loc>
-     <lastmod>2018-05-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/things/musicid/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/commands/donator/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     
 
     
+        
     <url>
-     <loc>/ending/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/things/</loc>
+     <lastmod>2018-06-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://hans5958.github.io/cc-creative-guide/things/donator/</loc>
+     <lastmod>2018-06-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://hans5958.github.io/cc-creative-guide/things/cheat/</loc>
+     <lastmod>2018-06-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://hans5958.github.io/cc-creative-guide/things/reboot/</loc>
+     <lastmod>2018-06-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://hans5958.github.io/cc-creative-guide/things/format/</loc>
+     <lastmod>2018-06-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://hans5958.github.io/cc-creative-guide/things/musicid/</loc>
+     <lastmod>2018-06-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://hans5958.github.io/cc-creative-guide/things/plugins/</loc>
+     <lastmod>2018-06-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>https://hans5958.github.io/cc-creative-guide/ending/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/credits/</loc>
-     <lastmod>2018-05-31</lastmod>
+     <loc>https://hans5958.github.io/cc-creative-guide/credits/</loc>
+     <lastmod>2018-06-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
