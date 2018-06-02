@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 <h2>III.6. Plugins</h2>
-=======
-<h1>III.6. Plugins</h1>
->>>>>>> 5300e19d10de394750ed352381ffb3717aceeea0
-
 Here are the some plugins that are known to be used at the server.
 
 1. Essentials  
