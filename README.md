@@ -6,7 +6,7 @@ Welcome to the Cosmic Craft's Creative Guide, created by Hans5958. This guide is
 
 ## Credits
 
-See [Credits](docs/credits/index,md)
+See [Credits](docs/credits/index.md)
 
 ## License
 
