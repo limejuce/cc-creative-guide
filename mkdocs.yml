@@ -1,5 +1,8 @@
 theme: 'readthedocs'
-site_name: Cosmic Craft Creative Guide
+site_name: 'Cosmic Craft Creative Guide'
+site_description: 'Guide for Creative on Cosmic Craft. Every aspect explained.'
+site_author: 'Hans5958'
+site_url: 'https://hans5958.github.io/cc-creative-guide'
 pages:
   - 'Main Page': 'index.md'
   - 'Preface': 'preface/index.md'
@@ -18,7 +21,9 @@ pages:
     - 'Reboot': 'things/reboot.md'
     - 'Color and Formatting Codes': 'things/format.md'
     - 'Plot Music ID': 'things/musicid.md'
+    - 'Plugins': 'things/plugins.md'
   - 'Ending': 'ending/index.md'
   - 'Credits': 'credits/index.md'
+google_analytics: ['UA-49890594-3', 'auto']
 repo_name: 'GitHub'
 repo_url: 'https://github.com/Hans5958/cc-creative-guide'

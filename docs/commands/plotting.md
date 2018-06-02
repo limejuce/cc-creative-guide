@@ -1,6 +1,6 @@
 <h2>II.2. Commands - Plotting</h2>
 
-The plot command is important on this creative. Speaking of plots, this server uses PlotSquared as the plot plugin. We will use /p for the rest of this section. Let's assume the owner is you.
+The plot command is important on this creative. We will use /p for the rest of this section. 
 
 | Commands | Description |
 | --- | --- |
@@ -35,7 +35,7 @@ There are a lot of flags that you can use on your plot. First of all, you can us
 
 | Flag | Description |
 | --- | ---
-| titles |    The text when you enter a plot (Owned by ...). This can be enabled or disabled by either "true" or "false" as the values.
+| titles | The text when you enter a plot (Owned by ...). This can be enabled or disabled by either "true" or "false" as the values.
 | greeting | The chat text when you enter a plot. You can make any greeting text as the value. (even with colour codes)
 | farewell | The chat text when you leave a plot. You can make any farewell text as the value. (even with color codes)
 | notify-enter | The text that notifies you and your visitors about someone who enters the plot. This can be enabled or disabled by either "true" or "false" as the values.
