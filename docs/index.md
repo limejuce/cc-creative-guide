@@ -2,7 +2,7 @@
 > Every aspect explained.  
 > From the Ultimate CC Creative Guidebook, not released.
 > 
-> Last updated: 03/06/2018 17:02 GMT+07
+> Last updated: 04/06/2018 9:16 GMT+07
 
 Welcome to the Cosmic Craft's Creative Guide, created by Hans5958. This guide is written to make your experience on the server better. You can select your preferred section on the contents below or the sidebar on the right.
 
@@ -32,7 +32,7 @@ See [Credits](credits)
 
 ## Contribute
 
-When contributing to the repository, please first discuss the changes that you want to make via issue, e-mail, or other methods to contact the owner before making a change. Please note we have a code of conduct, please follow it in all your interactions with the project.
+When contributing to the repository, please first discuss the changes that you want to make via issue, e-mail, or other methods to contact the owner before making a change. Please note we have a [code of conduct](https://github.com/Hans5958/cc-creative-guide/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
 You can contribute by following these steps.
 
