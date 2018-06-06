@@ -1,5 +1,7 @@
 <h2>III.5. Plot Music ID</h2>
 
+<img src="../../img/Music_Discs.gif" align="right" style="display:inline-block">
+
 Some folks may want to use the traditional /p flag music [value] than the newer /p music. Here are some values of all music IDs, in case if you need them.
 
 | ID | Music |

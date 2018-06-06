@@ -2,7 +2,7 @@
 > Every aspect explained.  
 > From the Ultimate CC Creative Guidebook, not released.
 > 
-> Last updated: 04/06/2018 9:16 GMT+07
+> Last updated: 06/06/2018
 
 Welcome to the Cosmic Craft's Creative Guide, created by Hans5958. This guide is written to make your experience on the server better. You can select your preferred section on the contents below or the sidebar on the right.
 

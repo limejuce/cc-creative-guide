@@ -4,7 +4,7 @@ The plot command is important on this creative. We will use /p for the rest of t
 
 | Commands | Description |
 | --- | --- |
-| /p auto | Claims a random plot. You can claim 2 plots as a normal player, 4 as a Donator 1, 6 as a Donator 2, and 8 as a Donator 3
+| /p auto | Claims a random plot. You can claim 3 plots as a normal player, 4 as a Donator 1, 5 as a Donator 2, and 6 as a Donator 3
 | /p claim | Claims an empty plot, use this commands inside an empty plot.
 | /p buy | Buys a plot that is on sale.
 | /p delete | Deletes your plot from the existence. Watch out.
