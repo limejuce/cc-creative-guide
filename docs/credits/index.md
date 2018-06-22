@@ -12,7 +12,7 @@ Thanks to:
   - https://opensource.org/licenses/MIT
 
 References/Sources:
-
+```
   - https://minecraft.gamepedia.com/Formatting_codes
   - https://minecraft.gamepedia.com/Music_Disc
   - https://github.com/essentials/Essentials
@@ -25,8 +25,10 @@ References/Sources:
   - https://www.spigotmc.org/resources/%E2%9C%88%EF%B8%8Fvehicles-no-resourcepacks-needed.12446/
   - https://www.spigotmc.org/resources/simple-elevators-1-7-1-12-2.44462/
   - https://dev.bukkit.org/projects/votifier
-
+  - https://www.spigotmc.org/resources/libs-disguises.32453/
+```
 Image Sources:
-
+```
   - https://minecraft.gamepedia.com/File:Minecraft_Formatting.gif
   - https://minecraft.gamepedia.com/File:Music_Discs.gif
+```

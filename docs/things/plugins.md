@@ -14,7 +14,7 @@ A plugin to edit your world easily. You have known this already.
 A plugin to listen to votes, so you can get a reward for voting.
 
 5. NewItems  
-This one is an odd one out because it's a paid plugin. It adds new custom items to the game, like lightsabers, guitars, clocks, etc. The mod also adds corpses for killed people.
+This is a paid plugin. It adds new custom items to the game, like lightsabers, guitars, clocks, etc. The mod also adds corpses for killed people.
 
 6. Vault  
 An API for easy hooks for plugins. A dependency of NewItems
@@ -23,10 +23,13 @@ An API for easy hooks for plugins. A dependency of NewItems
 Library to enables read and write access to Minecraft protocol. A dependency of NewItems.
 
 8. Vehicles  
-This one is also an odd one out. It's also a paid plugin. As you except, it adds vehicles, like cars, bikes, submarines, tanks, planes, helicopter, and even a broom.
+This is a paid plugin. As you except, it adds vehicles, like cars, bikes, submarines, tanks, planes, helicopter, and even a broom.
 
 9. CreativeItemControl  
 A plugin for blocking spawning specific items and items with NBT data.
 
 10. Simple Elevators
 A plugin for elevators. One example is on the /spawn, where you can stand on the end stone and either jump to go up a floor or shift to go down a floor.
+
+11. Lib's Disguise
+This is a paid plugin, or at least the latest version. It's purpose is for mob disguise. You can be a mob with the command /disguise.

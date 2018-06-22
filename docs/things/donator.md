@@ -9,7 +9,7 @@ I've mentioned so many time about the rank "Donator" on the previous texts, so y
 - Ability to obtain player heads. (/head get [player])
 - Ability to get a laser gun. (/laser)
 - Ability to access the Donator Chat (which many people hates it). (/dc)
-- 2 additional plot can be obtained. (now you can claim 4 plots)
+- 1 additional plot can be obtained. (now you can claim 4 plots)
 
 ### Donator 2
 - Ability to set your nickname. (/nick)
@@ -19,7 +19,7 @@ I've mentioned so many time about the rank "Donator" on the previous texts, so y
 - Ability to get a laser gun. (/laser)
 - Ability to access the Donator Chat. (/dc)
 - Ability to have particle effects. (/particles)
-- 4 additional plot can be obtained. (now you can claim 6 plots)
+- 2 additional plot can be obtained. (now you can claim 5 plots)
 
 ### Donator 3
 - Ability to set your nickname. (/nick)
@@ -29,5 +29,5 @@ I've mentioned so many time about the rank "Donator" on the previous texts, so y
 - Ability to get a laser gun. (/laser)
 - Ability to access the Donator Chat. (/dc)
 - Ability to have particle effects. (/particles)
-- Ability to use WorldEdit. (the almighty wooden axe)
-- 6 additional plot can be obtained. (now you can claim 8 plots)
+- Ability to use WorldEdit.
+- 3 additional plot can be obtained. (now you can claim 6 plots)
