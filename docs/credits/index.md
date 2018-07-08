@@ -26,6 +26,7 @@ References/Sources:
   - https://www.spigotmc.org/resources/simple-elevators-1-7-1-12-2.44462/
   - https://dev.bukkit.org/projects/votifier
   - https://www.spigotmc.org/resources/libs-disguises.32453/
+  - https://www.spigotmc.org/resources/armor-stand-tools.2237/
 ```
 Image Sources:
 ```
