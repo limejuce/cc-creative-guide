@@ -36,8 +36,8 @@
 | /statue | Creates a player statue. |
 | /enchanter | Buy custom enchantments. |
 | /tinkerer | Trade your items with custom enchantments with a tinkerer. |
-| /pg | Pocket Games plugin. |
-| /mbg play | Board Games plugin | command. |
+| /pocketgames<br>/pg | Pocket Games plugin command. |
+| /mbg play | Board Games plugin command. |
 
 
 /warp is not written because it's just useless.  
