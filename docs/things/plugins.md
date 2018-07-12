@@ -36,3 +36,15 @@ This is a paid plugin, or at least the latest version. It's purpose is for mob d
 
 12. Armor Stand Tools  
 A plugin to create a custom armor stand. Type "/astools" to use it.
+
+13. Board Games  
+This is a paid plugin. A plugin for mini games.
+
+14. Pocket Games  
+This is a paid plugin. A plugin also for mini games.
+
+15. RandomPackages  
+This is a paid plugin. The solely purpose is variety, but the only thing that's allowed is /enchanter and /tinkerer.
+
+16. Citizens  
+A plugin for creating NPCs.

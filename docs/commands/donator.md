@@ -10,5 +10,6 @@ These commands are accessible by players who bought the Donator rank. Read the s
 | /nick | Sets your nickname. (min. Donator 1)
 | /particles | Launches a GUI of particle effects. Choose one of the particle effects and you will have a particle effect. (min. Donator 2)
 | /spr p | Sets your prefix.
+| /npc | Spawn/set NPCs
 
 There is also WorldEdit for Donator 3 (or people who voted 1000 times). You can read them [here](http://wiki.sk89q.com/wiki/WorldEdit)
