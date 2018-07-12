@@ -29,6 +29,7 @@ I've mentioned so many time about the rank "Donator" on the previous texts, so y
 - Ability to get a laser gun. (/laser)
 - Ability to access the Donator Chat. (/dc)
 - Ability to have particle effects. (/particles)
+- Ability to spawn NPCs (/npc)
 - Ability to use WorldEdit.
 - Ability to spawn NPCs (/npc)
 - 3 additional plot can be obtained. (now you can claim 6 plots)
