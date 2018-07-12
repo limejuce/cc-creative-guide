@@ -28,8 +28,23 @@ This is a paid plugin. As you except, it adds vehicles, like cars, bikes, submar
 9. CreativeItemControl  
 A plugin for blocking spawning specific items and items with NBT data.
 
-10. Simple Elevators
+10. Simple Elevators  
 A plugin for elevators. One example is on the /spawn, where you can stand on the end stone and either jump to go up a floor or shift to go down a floor.
 
-11. Lib's Disguise
+11. Lib's Disguise  
 This is a paid plugin, or at least the latest version. It's purpose is for mob disguise. You can be a mob with the command /disguise.
+
+12. Armor Stand Tools  
+A plugin to create a custom armor stand. Type "/astools" to use it.
+
+13. Board Games  
+This is a paid plugin. A plugin for mini games.
+
+14. Pocket Games  
+This is a paid plugin. A plugin also for mini games.
+
+15. RandomPackages  
+This is a paid plugin. The solely purpose is variety, but the only thing that's allowed is /enchanter and /tinkerer.
+
+16. Citizens  
+A plugin for creating NPCs.

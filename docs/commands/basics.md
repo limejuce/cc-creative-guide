@@ -2,7 +2,6 @@
 
 | Commands | Description |
 | --- | --- |
-| /astools | Opens a tool for creating and customizing armor stands. Great for creating holograms and NPC.
 | /back | Go to the place where you teleported/died. *
 | /balance | Checks your in-game money balance.
 | /pay | Transfer/pay a money to your desired player.
@@ -33,6 +32,13 @@
 | /tptoggle | Blocks all teleport request.
 | /vote | Gives the CosmicMC's vote links.
 | /plots<br>/plot<br>/p<br>/p2 | Plot command, see section [Commands - Plotting](plotting.md).
+| /astools | Opens a tool for creating and customizing armor stands. Great for creating holograms and NPC.
+| /statue | Creates a player statue. |
+| /enchanter | Buy custom enchantments. |
+| /tinkerer | Trade your items with custom enchantments with a tinkerer. |
+| /pg | Pocket Games plugin. |
+| /mbg play | Board Games plugin | command. |
+
 
 /warp is not written because it's just useless.  
 \* This may be useful, or maybe not.

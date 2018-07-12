@@ -26,6 +26,11 @@ References/Sources:
   - https://www.spigotmc.org/resources/simple-elevators-1-7-1-12-2.44462/
   - https://dev.bukkit.org/projects/votifier
   - https://www.spigotmc.org/resources/libs-disguises.32453/
+  - https://www.spigotmc.org/resources/armor-stand-tools.2237/
+  - https://www.spigotmc.org/resources/board-games-gui-map-games-24-games-tictactoe-battleship-stats-tops-records.30066/
+  - https://www.spigotmc.org/resources/pocket-games-1-8-1-12-2-32-premium-minigames-multiplayer-single-player.48676/
+  - https://www.spigotmc.org/resources/randompackage.38501/
+  - https://dev.bukkit.org/projects/citizens
 ```
 Image Sources:
 ```
