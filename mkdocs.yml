@@ -22,6 +22,8 @@ pages:
     - 'Color and Formatting Codes': 'things/format.md'
     - 'Plot Music ID': 'things/musicid.md'
     - 'Plugins': 'things/plugins.md'
+    - 'Voting': 'things/voting.md'
+    - 'WorldEdit': 'things/worldedit.md'
   - 'Ending': 'ending/index.md'
   - 'Credits': 'credits/index.md'
 google_analytics: ['UA-49890594-3', 'auto']

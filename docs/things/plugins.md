@@ -8,7 +8,7 @@ The plugin that every server has. Adds useful commands such as /tpa, /msg, /back
 A plugin for the plot system. It's the successor of PlotMe.
 
 3. WorldEdit  
-A plugin to edit your world easily. You have known this already.
+A plugin to edit your world easily. You have known this already. See [WorldEdit](worldedit.md)
 
 4. Votifier  
 A plugin to listen to votes, so you can get a reward for voting.
@@ -40,11 +40,11 @@ A plugin to create a custom armor stand. Type "/astools" to use it.
 13. Board Games  
 This is a paid plugin. A plugin for mini games.
 
-14. Pocket Games  
-This is a paid plugin. A plugin also for mini games.
-
-15. RandomPackages  
+14. RandomPackages  
 This is a paid plugin. The solely purpose is variety, but the only thing that's allowed is /enchanter and /tinkerer.
 
-16. Citizens  
+15. Citizens  
 A plugin for creating NPCs.
+
+16. SimplePrefix  
+A plugin for prefixes.

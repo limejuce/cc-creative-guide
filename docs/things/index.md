@@ -6,3 +6,5 @@
 4. [Color and Formatting Codes](format.md)
 5. [Plot Music ID](musicid.md)
 6. [Plugins](plugins.md)
+7. [Voting](voting.md)
+8. [WorldEdit](worldedit.md)

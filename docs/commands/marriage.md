@@ -18,4 +18,4 @@ Please don't do those guys, I'm disappointed. Anyway, let's get to the commands.
 | /marry seen | Check when your partner last logged in. *
 | /marry divorce | Divorces you from your partner. Keep in mind that you will pay $10 if you do so.
 
-\* This may be useful, or maybe not.
+``*`` This may be useful, or maybe not.

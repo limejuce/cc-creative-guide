@@ -12,4 +12,4 @@ These commands are accessible by players who bought the Donator rank. Read the s
 | /spr p | Sets your prefix.
 | /npc | Spawn/set NPCs
 
-There is also WorldEdit for Donator 3 (or people who voted 1000 times). You can read them [here](http://wiki.sk89q.com/wiki/WorldEdit)
+There is also WorldEdit for Donator 3 (for free, others for $5). Read [WorldEdit](/things/worldedit.md).
