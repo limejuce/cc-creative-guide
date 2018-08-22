@@ -19,7 +19,6 @@ References/Sources:
   - https://github.com/EssentialsX/Essentials
   - https://github.com/IntellectualSites/PlotSquared/
   - https://www.spigotmc.org/resources/creativeitemcontrol.9471/
-  - https://www.spigotmc.org/resources/newitems-create-items-with-custom-textures-models-without-mods.22783/
   - https://dev.bukkit.org/projects/vault
   - https://www.spigotmc.org/resources/protocollib.1997/
   - https://www.spigotmc.org/resources/%E2%9C%88%EF%B8%8Fvehicles-no-resourcepacks-needed.12446/

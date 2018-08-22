@@ -1,135 +1,94 @@
 # Changelog
 
+### Changes in 22 August 2018
+
+- Removed NewItems plugin due to update.
+- Revamped change log for simplicity.
+
 ### Changes in 4 August 2018
-- ``+`` Things - Voting
-- ``+`` Things - WorldEdit
-- ``+`` CHANGELOG.md
-- ``•`` Main Page/Index (new page)
-- ``•`` Introduction (minor)
-- ``•`` Commands - Basics (plugin removed, minor)
-- ``•`` Commands - Donator (WorldEdit link)
-- ``•`` Commands - Marriage (minor)
-- ``•`` Things - Index (new page)
-- ``•`` Things - Donator (minor)
-- ``•`` Things - Reboot (minor)
-- ``•`` Things - Plugins (update)
-- ``•`` mkdocs.yml (indexing)
+- Added new page, *Things - Voting*
+- Added new page, *Things - WorldEdit*
+- Added change log.
+- Removed plugin Pocket Games due to update.
+- Added WorldEdit link on *Things - Donator*.
+- Minor fixes on grammar, formatting, etc.
 
 ---
 
 ### Changes on 12 July 2018
-- ``•`` Commands - Basics (new plugins, minor)
-- ``•`` Commands - Donator (new plugins)
-- ``•`` Things - Donator (new plugins)
-- ``•`` Things - Plugins (new plugins)
-- ``•`` Credits (new plugins)
+- Added 5 new plugins due to update.
+- Updated *Things - Donator* and *Things - Plugins* due to the new plugins.
 
 ---
 
 ### Changes on 22 June 2018
-- ``•`` Things - Donator (update info)
-- ``•`` Things - Plugin (add plugin, minor)
-- ``•`` Credits (blockquote)
+- Added Armor Stand Tools plugin due to update.
+- Minor fix at *Credits*.
 
 ---
 
 ### Changes on 6 June 2018
-- ``•`` README.md (deleted time of last updated)
-- ``•`` Main Page/Index (deleted time of last updated)
-- ``•`` Commands - Plotting (inaccuracy fix)
-- ``•`` Things - Format (add image)
-- ``•`` Things - MusicID (image fix)
+- Removed last updated time.
+- Updated *Commands - Plotting* due to inaccuracy.
+- Added image on *Things - Format*.
+- Fixed image on *Things - MusicID*.
 
 ---
 
 ### Changes on 4 June 2018
-- ``+`` .gitignore (site folder)
-- ``•`` README.md (link fix)
-- ``•`` Main Page/Index (link fix)
+- Added .gitignore.
+- Fixed broken link at Readme and Main Page.
 
 ---
 
 ### Changes on 3 June 2018
-- ``+`` CODE_OF_CONDUCT.md
-- ``+`` CONTRIBUTING.md
-- ``•`` README.md (added last updated, contribute section)
-- ``•`` Main Page/Index (added last updated, contribute section)
-- ``•`` Things - Plugins (grammar fix)
+- Added code of conduct.
+- Added contributing.md.
+- Added last updated date and time.
+- Minor fixes.
 
 ---
 
 ### Changes on 2 June 2018
-
-- ``+`` Things - Plugins
-- ``•`` README.md (deleted to-do, minor)
-- ``•`` Main Page/Index (minor)
-- ``•`` Commands - Index (minor)
-- ``•`` Commands - Basics (minor)
-- ``•`` Commands - Plotting (minor)
-- ``•`` Commands - Marriage (minor)
-- ``•`` Commands - Donator (WorldEdit)
-- ``•`` Things - Index (numeral fix)
-- ``•`` Things - Format (image fix)
-- ``•`` Credits (plugins)
-- ``•`` mkdocs.yml (indexing)
+- Added new page, *Things - Plugins*
+- Removed to-do list at Readme.
+- Minor fixes.
 
 ---
 
 ### Changes on 31 May 2018
 
-- ``+`` LICENSE.md
-- ``•`` README.md (minor, grammar fix)
-- ``•`` Main Page/Index (minor, grammar fix)
-- ``•`` Introduction (minor, grammar fix)
-- ``•`` Commands - Plotting (minor, grammar fix)
-- ``•`` Commands - Disguise (minor, grammar fix)
-- ``•`` Commands - Marriage (minor, grammar fix)
-- ``•`` Commands - Donator (minor, grammar fix)
-- ``•`` Introduction (minor, grammar fix)
-- ``•`` Things - Donator (minor, grammar fix)
-- ``•`` Things - Reboot (minor, grammar fix)
-- ``•`` Things - Cheat (minor, grammar fix)
-- ``•`` Things - Format (minor, grammar fix)
-- ``•`` Ending (minor, grammar fix)
-- ``•`` Credits (Grammarly)
+- Added license.md
+- Minor fixes on grammar, etc.
 
 ---
 
 ### Changes on 30 May 2018
 
-- ``+`` Commands - Index
-- ``+`` Commands - Basics
-- ``+`` Commands - Plotting
-- ``+`` Commands - Disguise
-- ``+`` Commands - Marriage
-- ``+`` Commands - Donator
-- ``+`` Things - Index
-- ``+`` Things - Donator
-- ``+`` Things - Reboot
-- ``+`` Things - Cheat
-- ``+`` Things - Format
-- ``+`` Things - MusicID
-- ``+`` Ending
-- ``+`` Credits
-- ``•`` README.md (minor)
-- ``•`` Main Page/Index (clickable TOC, credits, license)
-- ``•`` Introduction (minor)
-- ``•`` Preface (minor)
-- ``•`` mkdocs.yml (indexing)
+- Added new page, *Commands - Index*
+- Added new page, *Commands - Basics*
+- Added new page, *Commands - Plotting*
+- Added new page, *Commands - Disguise*
+- Added new page, *Commands - Marriage*
+- Added new page, *Commands - Donator*
+- Added new page, *Things - Index*
+- Added new page, *Things - Donator*
+- Added new page, *Things - Reboot*
+- Added new page, *Things - Cheat*
+- Added new page, *Things - Format*
+- Added new page, *Things - MusicID*
+- Added new page, *Ending*
+- Added new page, *Credits*
+- Edited main page for licenses, credits, TOC.
+- Minor edits.
 
 ---
 
 ### Changes on 29 May 2018
 
-- ``+`` Initial commit
-- ``+`` README.md
-- ``+`` Main Page/Index
-- ``+`` Introduction
-- ``+`` Preface
-- ``+`` mkdocs.yml
-
-```
-+ = Addition
-- = Deletion
-• = Modification
-```
+- Initial commit
+- Added Readme
+- Added new page, Main page
+- Added new page, Introduction
+- Added new page, Preface
+- Added mkdocs.yml
