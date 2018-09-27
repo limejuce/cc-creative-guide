@@ -1,5 +1,12 @@
 # Changelog
 
+### Changes in 27 September 2018
+
+- Added new commands on *Commands - Basics*, "/friend" and /party"
+- Added information for "/nick" on sale.
+- Changed "/p" to /plot" on *Commands - Plotting* because "/p" alias changed into "/party".
+- Minor fixes on *Things - Donator* for clarification.
+
 ### Changes in 22 August 2018
 
 - Removed NewItems plugin due to update.

@@ -30,5 +30,5 @@
 - Ability to access the Donator Chat. *(/dc)*
 - Ability to have particle effects. *(/particles)*
 - Ability to spawn NPCs *(/npc)*
-- Ability to use WorldEdit without costing in-game money.
+- Ability to use WorldEdit without costing in-game money and with more commands.
 - 3 additional plot can be obtained. (now you can claim 6 plots)
