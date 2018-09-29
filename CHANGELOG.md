@@ -4,13 +4,6 @@
 
 - Added new commands on *Commands - Basics*, "/friend" and /party"
 - Added information for "/nick" on sale.
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-- Changed "/p" to /plot" on *Commands - Plotting* because "/p" alias changed into "/party".
->>>>>>> 2a9824709e735b2ed492138bb73b7fad56036f1e
->>>>>>> c1ab5b98d74d9732b65f7b89fb7644831b35cd8e
 - Minor fixes on *Things - Donator* for clarification.
 
 ### Changes in 22 August 2018
