@@ -203,7 +203,7 @@
               
                 <h2>II.2. Commands - Plotting</h2>
 
-<p>The plot command is important on this creative. We will use /p for the rest of this section. </p>
+<p>The plot command is important on this creative. We will use /plot for the rest of this section.</p>
 <table>
 <thead>
 <tr>
@@ -213,81 +213,81 @@
 </thead>
 <tbody>
 <tr>
-<td>/p auto</td>
+<td>/plot auto</td>
 <td>Claims a random plot. You can claim 3 plots as a normal player, 4 as a Donator 1, 5 as a Donator 2, and 6 as a Donator 3</td>
 </tr>
 <tr>
-<td>/p claim</td>
+<td>/plot claim</td>
 <td>Claims an empty plot, use this commands inside an empty plot.</td>
 </tr>
 <tr>
-<td>/p buy</td>
+<td>/plot buy</td>
 <td>Buys a plot that is on sale.</td>
 </tr>
 <tr>
-<td>/p delete</td>
+<td>/plot delete</td>
 <td>Deletes your plot from the existence. Watch out.</td>
 </tr>
 <tr>
-<td>/p home<br>/p h<br>/p visit<br>/p v<br>/p goto</td>
-<td>Goes to a plot. <br>If there is no identifier, it will teleport you to your own plot. <br>If there is a number, it will teleport you to your plot that you specify. ("/p h 2" goes to your second plot). <br>If there is a player name, it will teleport you the player's (first) plot. ("/p h Pixel5958" goes to my first plot). <br>Add a number and it will teleport you to the specified player's plot. ("/p h Pixel5958 2" goes to my second plot). <br>You can also use coordinates to go to a specific plot. ("/p h 0;1" goes to the spawn plot)</td>
+<td>/plot home<br>/plot h<fbr>/plot visit<br>/plot v<br>/plot goto</td>
+<td>Goes to a plot. <br>If there is no identifier, it will teleport you to your own plot. <br>If there is a number, it will teleport you to your plot that you specify. ("/plot h 2" goes to your second plot). <br>If there is a player name, it will teleport you the player's (first) plot. ("/plot h Pixel5958" goes to my first plot). <br>Add a number and it will teleport you to the specified player's plot. ("/plot h Pixel5958 2" goes to my second plot). <br>You can also use coordinates to go to a specific plot. ("/plot h 0;1" goes to the spawn plot)</td>
 </tr>
 <tr>
-<td>/p info</td>
+<td>/plot info</td>
 <td>Tells you about a plot. Stand in a plot, use the command, and you will get informations about the plot.</td>
 </tr>
 <tr>
-<td>/p add</td>
+<td>/plot add</td>
 <td>Adds a player to the plot. They can build on your plot when the owner online.</td>
 </tr>
 <tr>
-<td>/p trust</td>
+<td>/plot trust</td>
 <td>Trust a player to the plot. They can build on your plot even the you offline. Be careful with this command</td>
 </tr>
 <tr>
-<td>/p kick</td>
+<td>/plot kick</td>
 <td>Kicks a player from your plot. They can go back to your plot at any time.</td>
 </tr>
 <tr>
-<td>/p deny</td>
+<td>/plot deny</td>
 <td>Denies (bans) a player from your plot. They can't go to your plot anymore.</td>
 </tr>
 <tr>
-<td>/p remove<br>/p r<br>/p untrust<br>/p ut<br>/p undeny<br>/p ud</td>
+<td>/plot remove<br>/plot r<br>/plot untrust<br>/plot ut<br>/plot undeny<br>/plot ud</td>
 <td>Removes, untrust, or undenies a player from your plot.</td>
 </tr>
 <tr>
-<td>/p biome</td>
+<td>/plot biome</td>
 <td>Sets your plot biome.</td>
 </tr>
 <tr>
-<td>/p music</td>
+<td>/plot music</td>
 <td>Sets your plot music.</td>
 </tr>
 <tr>
-<td>/p chat</td>
+<td>/plot chat</td>
 <td>Switches the chat to the plot chat. Do the command again to talk to the global chat again.</td>
 </tr>
 <tr>
-<td>/p middle</td>
+<td>/plot middle</td>
 <td>Teleports you to the middle of a plot.</td>
 </tr>
 <tr>
-<td>/p toggle</td>
+<td>/plot toggle</td>
 <td>Toggles you some settings. This may useful, or maybe not.</td>
 </tr>
 <tr>
-<td>/p flag<br>/p f</td>
+<td>/plot flag<br>/plot f</td>
 <td>The flag command, see the plot flags section below.</td>
 </tr>
 </tbody>
 </table>
 <p>These commands are useless on this server, you can check them out if you want.</p>
-<pre><code>/p save, /p download, /p set, /p plugin, /p merge, /p unmerge, /p inbox, /p comment
+<pre><code>/plot save, /plot download, /plot set, /plot plugin, /plot merge, /plot unmerge, /plot inbox, /plot comment
 </code></pre>
 
 <h3 id="plot-flags">Plot Flags</h3>
-<p>There are a lot of flags that you can use on your plot. First of all, you can use "/p flag add [flag] [value]" to add a flag, "/p flag delete [flag]" to delete a flag, and "/p flag set [flag] [value]" to set a flag. I will list some flags you need to know, and you can check the rest on "/p flag list". If some of the flags aren't set, nothing would happen.</p>
+<p>There are a lot of flags that you can use on your plot. First of all, you can use "/plot flag add [flag] [value]" to add a flag, "/plot flag delete [flag]" to delete a flag, and "/plot flag set [flag] [value]" to set a flag. I will list some flags you need to know, and you can check the rest on "/plot flag list". If some of the flags aren't set, nothing would happen.</p>
 <table>
 <thead>
 <tr>
@@ -338,15 +338,15 @@
 </tr>
 <tr>
 <td>music</td>
-<td>The music that will be played on your plot. The values are the music disc IDs (2256-2267). It would be easier to use /p music.</td>
+<td>The music that will be played on your plot. The values are the music disc IDs (2256-2267). It would be easier to use /plot music.</td>
 </tr>
 <tr>
 <td>place<br>break<br>use</td>
-<td>The block IDs that the visitor can place/break/use. If you want your visitors only able to use a chest, do "/p flag set use 54". If you want your visitors only able to use a chest and a wooden button, do "/p flag set use 54,143". Notice that I don't use a space to separate the items. Set the value to 0 if you want your visitors can place/break/use anything.</td>
+<td>The block IDs that the visitor can place/break/use. If you want your visitors only able to use a chest, do "/plot flag set use 54". If you want your visitors only able to use a chest and a wooden button, do "/plot flag set use 54,143". Notice that I don't use a space to separate the items. Set the value to 0 if you want your visitors can place/break/use anything.</td>
 </tr>
 <tr>
 <td>price</td>
-<td>The price of your plot, if you want to sell it. The values are... the price of your plot. The visitors can use /p buy to buy a plot, if a price is set.</td>
+<td>The price of your plot, if you want to sell it. The values are... the price of your plot. The visitors can use /plot buy to buy a plot, if a price is set.</td>
 </tr>
 <tr>
 <td>no-worldedit</td>
