@@ -31,6 +31,7 @@
 | /tpdeny<br>/tpno | Declines a teleport request.
 | /tptoggle | Blocks all teleport request.
 | /vote | Gives the CosmicMC's vote links.
+| /warp | Warps to a specific location. (available warps: shop)|
 | /plots<br>/plot<br>/p<br>/p2 | Plot command, see section [Commands - Plotting](plotting.md).
 | /astools | Opens a tool for creating and customizing armor stands. Great for creating holograms and NPC.
 | /statue | Creates a player statue. |
@@ -39,6 +40,6 @@
 | /pocketgames<br>/pg | Pocket Games plugin command. |
 | /mbg play | Board Games plugin command. |
 
+You can use /nick to set your nickname. It is sold at $5000 on /warp shop. Read the [Donator](donator.md) section.
 
-/warp is not written because it's just useless.  
 ``*`` This may be useful, or maybe not.
