@@ -30,3 +30,4 @@ Here are the list of the vote links. You can vote and get rewards by using these
 - [Minecraft Server Index](https://www.minecraft-index.com/15450-cosmic-craft-hub/vote)
 - [Minecraft Multiplayer](https://minecraft-mp.com/server/22060/vote/)
 - [MinecraftServers.org](https://minecraftservers.org/vote/424344)
+- [ServersToplist.com](https://serverstoplist.com/minecraft/in-5206236)
